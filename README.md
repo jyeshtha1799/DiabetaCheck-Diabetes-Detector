@@ -20,6 +20,9 @@ This README provides a comprehensive guide to the Diabetes Prediction System. Th
    - Execute `python main.py` to initiate the Flask server.
    - Open a web browser and go to `http://localhost:5000` to interact with the application.
 
+![Screenshot 2024-06-03 at 7 28 36 PM (2)](https://github.com/jyeshtha1799/DiabetaCheck-ML-Diabetes-Detector/assets/114448454/847b11f5-03c7-45b6-8a9d-b2b51b8b584e)
+![Screenshot 2024-06-03 at 7 22 13 PM (2)](https://github.com/jyeshtha1799/DiabetaCheck-ML-Diabetes-Detector/assets/114448454/8aa9ee5a-8fca-4269-b612-bc84a4b69929)
+
 
 ### Data Visualization and Cleaning
 - **Scatter Plots and Histograms**: Used to examine relationships between variables and identify outliers. Visualizations highlight key features that influence diabetes outcomes.
